@@ -1,0 +1,182 @@
+loaded 338025 tokens
+train: 304223, val: 33802
+1 epoch = 74 batches
+Epoch 1/30 [Train]: 100%|██████████| 100/100 [01:40<00:00,  1.00s/it, loss=6.1344, lr=0.000131]
+Epoch 1/30 [Val]: 100%|██████████| 40/40 [00:12<00:00,  3.10it/s, loss=6.1856]
+
+Epoch 1 Summary:
+Train Loss: 7.4084
+Val Loss: 6.0933
+Learning Rate: 0.000131
+✓ Saved new best model with val_loss: 6.0933
+
+Epoch 2/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.02s/it, loss=4.7374, lr=0.000311]
+Epoch 2/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.01it/s, loss=5.7595]
+
+Epoch 2 Summary:
+Train Loss: 5.4098
+Val Loss: 5.4714
+Learning Rate: 0.000311
+✓ Saved new best model with val_loss: 5.4714
+
+Epoch 3/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.02s/it, loss=4.5993, lr=0.000400]
+Epoch 3/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.00it/s, loss=5.6458]
+
+Epoch 3 Summary:
+Train Loss: 4.7218
+Val Loss: 5.0875
+Learning Rate: 0.000400
+✓ Saved new best model with val_loss: 5.0875
+
+Epoch 4/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.02s/it, loss=4.0646, lr=0.000399]
+Epoch 4/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.00it/s, loss=5.6885]
+
+Epoch 4 Summary:
+Train Loss: 4.1916
+Val Loss: 5.2062
+Learning Rate: 0.000399
+Current best val_loss: 5.0875
+
+Epoch 5/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.02s/it, loss=3.8964, lr=0.000395]
+Epoch 5/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.05it/s, loss=5.8277]
+
+Epoch 5 Summary:
+Train Loss: 3.8075
+Val Loss: 5.2973
+Learning Rate: 0.000395
+Current best val_loss: 5.0875
+
+Epoch 6/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=2.9226, lr=0.000388]
+Epoch 6/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.03it/s, loss=6.2124]
+
+Epoch 6 Summary:
+Train Loss: 3.4044
+Val Loss: 5.3507
+Learning Rate: 0.000388
+Current best val_loss: 5.0875
+
+Epoch 7/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=2.8419, lr=0.000379]
+Epoch 7/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.04it/s, loss=6.2776]
+
+Epoch 7 Summary:
+Train Loss: 2.9737
+Val Loss: 5.4952
+Learning Rate: 0.000379
+Current best val_loss: 5.0875
+
+Epoch 8/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=2.5424, lr=0.000367]
+Epoch 8/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.02it/s, loss=6.5196]
+
+Epoch 8 Summary:
+Train Loss: 2.5505
+Val Loss: 5.7663
+Learning Rate: 0.000367
+Current best val_loss: 5.0875
+
+Epoch 9/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=1.9310, lr=0.000354]
+Epoch 9/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.04it/s, loss=6.7335]
+
+Epoch 9 Summary:
+Train Loss: 2.0785
+Val Loss: 5.8779
+Learning Rate: 0.000354
+Current best val_loss: 5.0875
+
+Epoch 10/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.02s/it, loss=1.3101, lr=0.000338]
+Epoch 10/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.04it/s, loss=6.9358]
+
+Epoch 10 Summary:
+Train Loss: 1.6074
+Val Loss: 6.1059
+Learning Rate: 0.000338
+Current best val_loss: 5.0875
+
+Epoch 11/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=1.0116, lr=0.000320]
+Epoch 11/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.02it/s, loss=7.0976]
+
+Epoch 11 Summary:
+Train Loss: 1.1852
+Val Loss: 6.2437
+Learning Rate: 0.000320
+Current best val_loss: 5.0875
+
+Epoch 12/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=0.6816, lr=0.000301]
+Epoch 12/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.04it/s, loss=7.5166]
+
+Epoch 12 Summary:
+Train Loss: 0.8022
+Val Loss: 6.6136
+Learning Rate: 0.000301
+Current best val_loss: 5.0875
+
+Epoch 13/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=0.3791, lr=0.000280]
+Epoch 13/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.04it/s, loss=7.5569]
+
+Epoch 13 Summary:
+Train Loss: 0.4982
+Val Loss: 6.7157
+Learning Rate: 0.000280
+Current best val_loss: 5.0875
+
+Epoch 14/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.02s/it, loss=0.2508, lr=0.000259]
+Epoch 14/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.03it/s, loss=7.8008]
+
+Epoch 14 Summary:
+Train Loss: 0.3179
+Val Loss: 6.8598
+Learning Rate: 0.000259
+Current best val_loss: 5.0875
+
+Epoch 15/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=0.1828, lr=0.000236]
+Epoch 15/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.02it/s, loss=8.0116]
+
+Epoch 15 Summary:
+Train Loss: 0.1999
+Val Loss: 7.0574
+Learning Rate: 0.000236
+Current best val_loss: 5.0875
+
+Epoch 16/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=0.0795, lr=0.000213]
+Epoch 16/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.03it/s, loss=7.9445]
+
+Epoch 16 Summary:
+Train Loss: 0.1380
+Val Loss: 7.0718
+Learning Rate: 0.000213
+Current best val_loss: 5.0875
+
+Epoch 17/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=0.0854, lr=0.000190]
+Epoch 17/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.03it/s, loss=8.1991]
+
+Epoch 17 Summary:
+Train Loss: 0.1020
+Val Loss: 7.1971
+Learning Rate: 0.000190
+Current best val_loss: 5.0875
+
+Epoch 18/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=0.0657, lr=0.000167]
+Epoch 18/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.03it/s, loss=8.2095]
+
+Epoch 18 Summary:
+Train Loss: 0.0774
+Val Loss: 7.2455
+Learning Rate: 0.000167
+Current best val_loss: 5.0875
+
+Epoch 19/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=0.0546, lr=0.000145]
+Epoch 19/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.03it/s, loss=8.2563]
+
+Epoch 19 Summary:
+Train Loss: 0.0590
+Val Loss: 7.3754
+Learning Rate: 0.000145
+Current best val_loss: 5.0875
+
+Epoch 20/30 [Train]: 100%|██████████| 100/100 [01:42<00:00,  1.03s/it, loss=0.0483, lr=0.000123]
+Epoch 20/30 [Val]: 100%|██████████| 40/40 [00:13<00:00,  3.02it/s, loss=8.3681]
+
+Epoch 20 Summary:
+Train Loss: 0.0484
+Val Loss: 7.3109
+Learning Rate: 0.000123
+Current best val_loss: 5.0875
